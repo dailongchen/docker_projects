@@ -1,0 +1,3 @@
+[submodule "team_lunch_app/app"]
+	path = team_lunch_app/app
+	url = https://github.com/dailongchen/lunch_foundation.git
